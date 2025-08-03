@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @shivam238
-- 👀 I’m interested in skin making
-- 🌱 I’m currently learning YouTubing
-- 💞️ https://youtube.com/channel/UCk8yA5-6p5Yn22FgkO2DhBw
-- 📫join my Discord server https://discord.gg/a7zSNUg7
-My skins at skindex https://www.minecraftskins.com/profile/6225601/shivam678
-<!---
-
+- 👋 Hi, I’m shivam kumar mahto
+- I am currently studying in Delhi Tecnological University. 
+- 👀 I’m interested in skin making,graphics designing, making animations, programming and presentation,web development and robotics etc.
+- 🌱 I’m currently learning programming, youtubing and boosting my knowledge
+- connect me on:
+- lindekin: https://www.linkedin.com/in/shivam-mahto-046228361/
+- youtube: https://www.youtube.com/@thevelvetquest || https://www.youtube.com/@darkeeidea
+- instagram: https://www.instagram.com/darkeeidea/
+- github: https://github.com/shivam238
+- 
