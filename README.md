@@ -25,7 +25,7 @@
 - Bash
 
 ### Tools & Technologies
-- Linux / Fedora
+- Linux / Fedora / Kali
 - Git & GitHub
 - VS Code
 - Android Studio
