@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Shivam Kumar Mahto
 
-🚀 CSE Student at DTU '29  
-💻 Linux Enthusiast | AI Developer | Open Source Learner  
-⚡ Passionate about building AI systems, automation tools, ethical hacking and futuristic projects.
+🎓 B.Tech CSE Student at DTU '29  
+🧠 Aspiring AI Systems Builder | Linux Enthusiast | Automation Developer  
+⚡ I enjoy building systems, tools, and experimenting with AI + Linux workflows  
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE Student at DTU
-- 🐧 Fedora And Kali Linux User
-- 🤖 Working on Personal AI Assistant Projects
-- ⚙️ Interested in AI, Automation, Linux, DSA, Hacking and System Designing
-- 📚 Currently learning DSA,advanced development and AI integration
+- 🎓 CSE Student at DTU  
+- 🐧 Daily driving Fedora & Kali Linux  
+- 🤖 Exploring AI systems and automation-based tools  
+- ⚙️ Interested in AI, Linux, system design, cybersecurity, and backend development  
+- 📚 Currently improving DSA, development fundamentals, and AI integration  
 
 ---
 
@@ -20,25 +20,30 @@
 
 ### Languages
 - Python
-- C/C++
+- C / C++
 - JavaScript
 - Bash
 
-### Tools & Technologies
-- Linux / Fedora / Kali
+### Tools & Systems
+- Linux (Fedora, Kali)
 - Git & GitHub
 - VS Code
 - Android Studio
-- Virtualization
-- AI APIs & Automation
+- Virtualization (VMs / virt-manager)
+- AI APIs & automation tools
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Projects I'm Working On
 
-- 🤖 Xyran-AI
-- 🧠 Personal AI Assistant
-- ⚡ Linux Automation Tools
+### 🤖 Xyran-AI
+A modular AI assistant system focused on automation and extensible architecture.
+
+### 🧠 Personal AI Assistant
+A long-term project exploring hybrid AI systems and tool-based automation workflows.
+
+### ⚡ Linux Automation Tools
+Custom scripts and utilities to improve productivity and system control on Linux.
 
 ---
 
@@ -48,9 +53,9 @@
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Mindset
 
-> "I use Linux because I like controlling my system instead of my system controlling me."
+> “I’m learning by building systems, not just studying them.”
 
 ---
 
